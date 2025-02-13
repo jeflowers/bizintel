@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-analytics-dashboard",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.x",
+    "recharts": "^2.x",
+    "@shadcn/ui": "latest",
+    "tailwindcss": "^3.x",
+    "lodash": "^4.x"
+  }
+}
